@@ -1,4 +1,4 @@
-# Terminalis
+# Terminalis ([terminalis.app](https://terminalis.app))
 
 [![Latest release](https://img.shields.io/github/v/release/achekulaev/terminalis.app?display_name=tag&sort=semver)](https://github.com/achekulaev/terminalis.app/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/achekulaev/terminalis.app/total)](https://github.com/achekulaev/terminalis.app/releases)
